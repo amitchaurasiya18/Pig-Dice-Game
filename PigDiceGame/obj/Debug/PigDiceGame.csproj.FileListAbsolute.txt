@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\bin\Debug\PigDiceGame.exe
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\bin\Debug\PigDiceGame.pdb
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\obj\Debug\PigDiceGame.exe
+D:\VS Projects GitHub\Pig-Dice-Game\PigDiceGame\obj\Debug\PigDiceGame.pdb

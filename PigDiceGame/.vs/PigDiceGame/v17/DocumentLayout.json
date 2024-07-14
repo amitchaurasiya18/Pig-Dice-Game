@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Projects GitHub\\Pig-Dice-Game\\PigDiceGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDBE3C-3C99-4C73-A177-DD789D032442}|PigDiceGame.csproj|d:\\vs projects github\\pig-dice-game\\pigdicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDBE3C-3C99-4C73-A177-DD789D032442}|PigDiceGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS Projects GitHub\\Pig-Dice-Game\\PigDiceGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS Projects GitHub\\Pig-Dice-Game\\PigDiceGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:36:01.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
